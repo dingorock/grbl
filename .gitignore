@@ -5,3 +5,8 @@
 *.d
 
 README.md
+.pioenvs
+.piolibdeps
+.vscode
+.travis.yml
+readme.txt
